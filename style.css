@@ -36,3 +36,7 @@ header {
     background-color: #257dfd !important;
     border: none;
 }
+
+p {
+    font-size: 18px !important;
+}
