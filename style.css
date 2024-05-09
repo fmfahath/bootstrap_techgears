@@ -75,3 +75,7 @@ footer {
 #accordian {
     background: linear-gradient(90deg, #0a58ca, #93acfc);
 }
+
+#hero {
+    padding: 0 14% !important;
+}
