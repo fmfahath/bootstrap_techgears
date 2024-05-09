@@ -4,3 +4,26 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+
+header {
+    background: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+
+.navbar-brand,
+.text-primary {
+    color: #0a58ca !important;
+}
+
+.nav-link {
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: #0a58ca !important;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #257dfd !important;
+    border: none;
+}
